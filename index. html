@@ -75,7 +75,7 @@
 <body>
 
 <div id="word-list-container">
-    <h2> skyle單字庫</h2>
+    <h2>成語單字庫</h2>
     <div id="word-list"></div>
 </div>
 
